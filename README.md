@@ -47,9 +47,9 @@
 ## About The Project
 
 This is a RESTful API built using node/express to interact with a Postgres database. This API was built as the backend to be used by the [Jobly](https://github.com/nickorsi/react-ts-jobly-fronted-vite) frontend repo. Some of the features this API includes:
-* Registers and authenticates users safely with the use of bcrypt hashing
+* Registers and authenticates users safely with the use of Bcrypt hashing
 * Uses JWT validation to authenticate and authorize users
-* Throughly tested code with 99% coverage
+* Thoroughly tested code with 99% coverage
 
 
 The code is provided courtesy of [Rithm School](https://www.rithmschool.com/) as part of the curriculum material.
