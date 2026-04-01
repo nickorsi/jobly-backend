@@ -13,4 +13,4 @@ jobs:
       - name: Ping backend health endpoint
         run: |
           curl --max-time 90 --fail --silent --show-error \
-          https://jobly-backend-nvo.onrender.com
+          https://jobly-backend-nvo.onrender.com/companies
